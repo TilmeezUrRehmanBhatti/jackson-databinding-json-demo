@@ -9,5 +9,6 @@
     "postalCode": "47051",
     "country": "DE"
   },
-  "languages": ["JAVA","C#","Python","Javascript"]
+  "languages": ["JAVA","C#","Python","Javascript"],
+  "department": "Communication"
 }
