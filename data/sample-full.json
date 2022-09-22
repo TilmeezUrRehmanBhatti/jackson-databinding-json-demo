@@ -1,0 +1,13 @@
+{
+  "id": 14,
+  "firstName": "Mario",
+  "lastName": "Rossi",
+  "active": true,
+  "address": {
+    "street": "Tibi str 9",
+    "city": "Duisburg",
+    "postalCode": "47051",
+    "country": "DE"
+  },
+  "language": ["JAVA","C#","Python","Javascript"]
+}
